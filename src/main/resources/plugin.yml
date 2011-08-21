@@ -1,0 +1,4 @@
+name: DeathIdle
+main: net.krinsoft.deathidle.DeathIdle
+version: ${project.version}
+author: krinsdeath
